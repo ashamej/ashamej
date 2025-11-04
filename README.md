@@ -11,13 +11,8 @@
 
 <div>
   <img src = 'https://i.cetsteam.com/imgs/2025/11/04/4e5965260a85a917.png'  height="500" style="float: right; margin-left: 20px;" alt="靠右图片">
-
-​    
-
-
-
-<span style="color: red;font-size:40px">我的理想是可以变得更快更强！🚀🚀🚀</span>
-
+<p><span style="color: red;font-size:40px">我的理想是可以变得更快更强！🚀🚀🚀</span><p>
+</div>
 
 
  <span style="color: green;font-size:35px">**住在杜王町东北部的别墅一带，未婚。我在龟友百货店上班，每天最晚8点下班回家。我不抽烟，酒仅浅尝辄止。晚上11点睡觉，保证睡足8小时。睡前喝一杯温牛奶，然后做20分钟的舒缓运动暖身再睡觉，基本能熟睡到天亮。像婴儿一样，绝不把疲劳和压力留到第二天。连医生都说我很正常。**</span>
