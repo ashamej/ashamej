@@ -1,6 +1,6 @@
+<img src = 'https://i.cetsteam.com/imgs/2025/11/04/420d4357b465fb82.jpg' />
+## 大家好，我是陈培源 👋
 <img src = 'https://i.cetsteam.com/imgs/2025/11/04/ecc045f9110ba007.png' />
-## Hi there 👋
-
 <!--
 **ashamej/ashamej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
