@@ -10,7 +10,7 @@
 ***
 
 <div>
-  <<img src = 'https://i.cetsteam.com/imgs/2025/11/04/845974b651b43737.png'  height="500" style="float: right; margin-left: 20px;" alt="靠右图片">
+  <img src = 'https://i.cetsteam.com/imgs/2025/11/04/845974b651b43737.png'  height="500" style="float: right; margin-left: 20px;" alt="靠右图片">
 <p><span style="color: red;font-size:40px">我的理想是可以变得更快更强！🚀🚀🚀</span><p>
 </div>
 
